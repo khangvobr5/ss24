@@ -112,8 +112,6 @@ function chayChuongTrinh() {
                 break;
             case 5:
                 tinhTrungBinhHang();
-                const trungBinhHang1 = tinhTrungBinhHang(mangHaiChieu, 1);
-                console.log("Trung bình cộng hàng 1:", trungBinhHang1);
                 break;
             case 6:
                 daoNguocHang();
